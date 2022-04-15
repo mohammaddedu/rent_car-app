@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="excellent">Excellent</string>
+    <string name="very_good">Very Good</string>
+    <string name="good">Good</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="poor">Poor</string>
+    <string name="rate_our_food">Rate Our Food</string>
+
+    <string-array name="food">
+        <item>Pizza</item>
+        <item>Shawerma</item>
+        <item>Burger</item>
+        <item>Grill Chicken</item>
+        <item>Steak</item>
+    </string-array>
+</resources>
